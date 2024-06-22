@@ -1,7 +1,10 @@
 Welcome to the Git repository of CODSOFT !
 
 In this you will find projects which were done during the internship period offered by CODSOFT.
+
 There are total 5 tasks:
+  
+  
   **TO-DO LIST**
       A To-Do List application is a useful project that helps users manage
       and organize their tasks efficiently. This project aims to create a

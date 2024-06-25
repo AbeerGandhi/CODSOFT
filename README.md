@@ -3,7 +3,10 @@ Welcome to the Git repository of CODSOFT !
 In this you will find projects which were done during the internship period offered by CODSOFT.
 
 There are total 5 tasks:
-  
+To run any of the project you must do these things:
+      1. Clone the repository in your own environment.(Click on "<code>" icon and then copy the https link and paste it in your environment using command: git clone <link> ).
+      2. then you must install tkinter packages.
+      3. Run.
   
   **TO-DO LIST**
       A To-Do List application is a useful project that helps users manage

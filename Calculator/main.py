@@ -1,6 +1,6 @@
 import tkinter as tk
-
 calculation = ""
+
 
 def add(symbol):
     global calculation
@@ -25,6 +25,7 @@ def clear():
 
 
 root = tk.Tk()
+root.title("Calculator")
 root.geometry("289x275")
 
 text_res = tk.Text(root, height=2, width=16, font=("Arial",25))
